@@ -10,7 +10,7 @@ def main():
     # Input (radius, fixed)
     radius = 12
     # Process the area and circumference of a circle
-    area = math.pi * (radius**2)
+    area = math.pi * (radius ** 2)
     circumference = 2 * math.pi * radius
 
     # Output the results (area and circumference)
